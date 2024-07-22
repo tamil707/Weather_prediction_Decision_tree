@@ -38,5 +38,6 @@ Pair Plot: A pair plot is generated to visualize the pairwise relationships betw
 
 Histograms: Histograms are created to visualize the distribution of different features such as temperature, humidity, wind speed, and pressure.
 
-Conclusion
+Conclusion:
+
 This project demonstrates a basic workflow for predicting weather conditions using a Decision Tree Classifier. The project includes data loading, preprocessing, model training, evaluation, and visualization steps. The visualizations help in understanding the data and the model's performance, providing insights into the relationships between different meteorological parameters.
