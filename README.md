@@ -31,8 +31,12 @@ The trained model is used to make predictions on the test data. The predictions 
 Several visualizations are created to analyze the data and the model's performance:
 
 Scatter Plot: A scatter plot is generated to visualize the relationship between the actual and predicted weather conditions.
+
 Correlation Heatmap: A heatmap is created to show the correlation between different features in the dataset.
+
 Pair Plot: A pair plot is generated to visualize the pairwise relationships between different features, with different weather conditions indicated by different colors.
+
 Histograms: Histograms are created to visualize the distribution of different features such as temperature, humidity, wind speed, and pressure.
+
 Conclusion
 This project demonstrates a basic workflow for predicting weather conditions using a Decision Tree Classifier. The project includes data loading, preprocessing, model training, evaluation, and visualization steps. The visualizations help in understanding the data and the model's performance, providing insights into the relationships between different meteorological parameters.
