@@ -1,3 +1,5 @@
+Hi 👋, I'm Tom (Tamilselvan)
+
 # Weather_prediction_Decision_tree
 This project aims to predict weather conditions based on various meteorological parameters such as temperature, humidity, wind speed, and pressure. The dataset used in this project is weather_data_sample.csv.
 
